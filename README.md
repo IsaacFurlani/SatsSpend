@@ -1,6 +1,6 @@
 # Spend Sats in Australia
 
-SatsSpend a list of Australian businesses that accept bitcoin. The aim is to establish and encourage a circular economy in which Aussie bitcoiners can more easily spend their sats with bitcoin businesses (and so bitcoin businesses get the support they deserve!). 
+SatsSpend is a list of Australian businesses that accept bitcoin. The aim is to establish and encourage a circular economy in which Aussie bitcoiners can more easily spend their sats with bitcoin businesses (and so bitcoin businesses get the support they deserve!). 
 
 This list is **not** intended for bitcoin exchanges or third-party payment processors (e.g., to get paid in bitcoin or pay bills in bitcoin). There are already numerous lists of such intermediate businesses.
 
@@ -19,6 +19,7 @@ This project can only work with community involvement. Please PM maintainers or 
 | Clothing & Jewellery | Esmira | 2 Locations: 12 Jacksons Road, Warriewood NSW, 2102 & 197-215 Condamine Street, Balgowlah NSW, 2093 | Yes | Clothing, jewellery, and homewares |
 | Pet Supplies   | Pet Parlour | 1B, 35 Stennett Rd, Ingleburn NSW, 2565   https://petparlour.com.au/  | No | Luxury pet products (eg, orthopedic dog beds)   |
 | Medical Clinic | Tamworth Heart Clinic | 40 Piper Street, Tamworth NSW, 2340   (02) 6766 3299| No | Medical clinic specialising in heart conditions         |
+| Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
 
 
 
@@ -54,6 +55,8 @@ This project can only work with community involvement. Please PM maintainers or 
 | Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
 | Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway               | 
 | Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
+| Health & Fitness | Furlani Fitness | 103 Edward St, Brisbane, QLD, 4000   https://furlanifitness.com.au/ | Yes | Coaching, nutrition, personal training, and meal-prep service |
+| Clothing & Barber | Urbanna | 106 Edward St, Brisbane, QLD, 4000   https://urbbana.com.au/ | ? | High end designer jackets, pants, shoes, and barbershop |
 
 
 
