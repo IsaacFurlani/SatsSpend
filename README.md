@@ -17,9 +17,8 @@ This project can only work with community involvement. Please PM maintainers or 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
 | Clothing & Jewellery | Esmira | 2 Locations: 12 Jacksons Road, Warriewood NSW, 2102 & 197-215 Condamine Street, Balgowlah NSW, 2093 | Yes | Clothing, jewellery, and homewares |
-| Pet Supplies   | Pet Parlour | 1B, 35 Stennett Rd, Ingleburn NSW, 2565   https://petparlour.com.au/  | No | Luxury pet products (eg, orthopedic dog beds)   |
-| Medical Clinic | Tamworth Heart Clinic | 40 Piper Street, Tamworth NSW, 2340   (02) 6766 3299| No | Medical clinic specialising in heart conditions         |
-| Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
+| Pet Supplies   | Pet Parlour | 1B, 35 Stennett Rd, Ingleburn NSW, 2565   https://petparlour.com.au/  | No | Luxury pet products (eg, orthopedic dog beds) |
+| Medical Clinic | Tamworth Heart Clinic | 40 Piper Street, Tamworth NSW, 2340   (02) 6766 3299| No | Medical clinic specialising in heart conditions |
 
 
 
@@ -27,12 +26,13 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
-| Computers   | Another World Computer Centre | 429 Sydney Road, Coburg VIC, 3058   https://anotherworld.com.au/ | Yes | Computers, parts, and repairs        |
-| Bicycles | Bike Factory Outlet | 92-92 Inkerman Street, St Kilda VIC, 3182   https://www.bikefo.com.au/ | ? | Bicycles, parts, tools, and accessories       |
+| Computers   | Another World Computer Centre | 429 Sydney Road, Coburg VIC, 3058   https://anotherworld.com.au/ | Yes | Computers, parts, and repairs  |
+| Bicycles | Bike Factory Outlet | 92-92 Inkerman Street, St Kilda VIC, 3182   https://www.bikefo.com.au/ | ? | Bicycles, parts, tools, and accessories |
 | Drones   | Dream Vision Sound | 4 Silverton Drive, Ferntree Gully VIC, 3156   https://dreamvisionsound.com/ | ? | DJI drone sales, repairs, and services    |
-| Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments. |
-| Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   http://glowgolf.com.au | No | Glow-in-the-dark black light mini-golf and bar |
-| Groceries    | USA Foods         | 67-73 Cochranes Rdoad, Moorabbin VIC, 3189   https://usafoods.com.au/ | ? | All-American grocery store (in Australia!)   |
+| Restaurant | Giuseppe's Pizza | 2 Locations: 92 Wilsons Road, Mornington VIC, 3931 & Shop 3, 2432 Frankston-Flinders Road, Bittern VIC, 3918   https://giuseppespizza.com.au/ | No | Pizza restaurant. Ask the owner for bitcoin payments |
+| Mini-golf & Bar | Glow Golf | Level 1, Shop 35 Star Cres, District Docklands Shopping Center, Docklands VIC, 3008   http://glowgolf.com.au/ | No | Glow-in-the-dark black light mini-golf and bar |
+| Accomodation | Marc's AirBnB | Kalorama, VIC https://www.airbnb.com.au/rooms/592050871156761438 | Yes | AirBnB, contact Marc directly: marcfour@protonmail.com |
+| Groceries    | USA Foods         | 67-73 Cochranes Road, Moorabbin VIC, 3189   https://usafoods.com.au/ | ? | All-American grocery store (in Australia!) |
 
 
 
@@ -40,9 +40,9 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
-| Barber   | Encrypted Barber    | 1a Union Street, Adelaide SA, 5000  https://encryptedbarber.com/      | Only  | Barber specialising in men's cuts          |
-| Winery   | Talunga Estate      | 198D Torrens Valley Road, Gumeracha SA, 5233   https://talungaestate.com.au/ | No  | Winery and function venue             |
-| Bar      | The Little Red Door | 182b Hindley Street, Adelaide SA, 5000  https://littlereddoor.com.au/ | No | Bar and function venue. Ask the owner for bitcoin payments. |
+| Barber   | Encrypted Barber    | 1a Union Street, Adelaide SA, 5000  https://encryptedbarber.com/      | Only  | Barber specialising in men's cuts |
+| Winery   | Talunga Estate      | 198D Torrens Valley Road, Gumeracha SA, 5233   https://talungaestate.com.au/ | No  | Winery and function venue    |
+| Bar      | The Little Red Door | 182b Hindley Street, Adelaide SA, 5000  https://littlereddoor.com.au/ | No | Bar and function venue. Ask the owner for bitcoin payments |
 
 
 
@@ -50,12 +50,16 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Location**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|----------------------------------------------------------------------|
-| Cafe     | Death Star Canteen  | 359 Queen Street, Brisbane City QLD, 4000   https://facebook.com/deathstarcanteenbrisbane | ?             | Coffee shop      |
-| Hosted Mining Facility | Mineracks | https://mineracks.com/  | ? | Selling ASIC and GPU mining rigs, as well as hosting services located in Brisbane CBD |
-| Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
-| Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway               | 
-| Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
+| Cleaning | Black Ops Cleaning | Brisbane City QLD, 4000   http://blackopscleaning.com/ | ? | Corporate and personal Cleaning services |
+| Cafe | Codie's Place | 7 Agnes St, Agnes Water QLD, 4677   https://codiesplace.com/ | Yes | Coffee shop |
+| Cafe | Crypto Coffee | 572 Brunswick St, New Farm QLD, 4005   https://instagram.com/cryptocoffeenewfarm/ | No |   Coffee shop |
+| Cafe     | Death Star Canteen  | 359 Queen Street, Brisbane City QLD, 4000   https://facebook.com/deathstarcanteenbrisbane/ | Yes   | Coffee shop  |
+| Restaurant | Drift & Wood | 40 Captain Cook Dr, Agnes Water QLD, 4677   https://driftandwood.com.au/ | ? | Restaurant and bar |
 | Health & Fitness | Furlani Fitness | 103 Edward St, Brisbane, QLD, 4000   https://furlanifitness.com.au/ | Yes | Coaching, nutrition, personal training, and meal-prep service |
+| Hosted Mining Facility | Mineracks | https://mineracks.com/  | ? | Selling ASIC and GPU mining rigs, as well as hosting services located in Brisbane |
+| Electrician | Queensland Solar and Lighting | Ipswitch, Gold Coast & Sunshine Coast, Brisbane   https://queenslandsolarandlighting.com/ | No | Solar system and lighting installations |
+| Restaurant  | Seagulls Takeaway  | 24 Anzac Parade Yeppoon QLD, 4703   https://facebook.com/seagullsfishandchips/ | ? | Fish and chips takeaway    | 
+| Accomodation & Outdoor Activities | Tweed Billabong Holiday Park | 30 Holden St, Tweed Heads South NSW, 2486   https://tweedbillabong.com.au/ | No | Holiday and amusement park |
 | Clothing & Barber | Urbanna | 106 Edward St, Brisbane, QLD, 4000   https://urbbana.com.au/ | ? | High end designer jackets, pants, shoes, and barbershop |
 
 
@@ -64,18 +68,19 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**     | **Name**            | **Location**                       | **Lightning**  | **Comments**                                                        |
 |--------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
-| Accomodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | No | Luxury accomodation                               |
+| Accomodation | Aiyana Retreat      | 28 Anning Road, Denmark WA, 6333   https://aiyanaretreat.com.au/ | No | Luxury accomodation                 |
 | Home Builders | Broadwater Builds  | 21a Norman Street, Wembley Downs WA, 6019   https://broadwaterbuilds.com.au/ | ? | Building new homes, extensions, and renovations |
-| Bar       | Frisk Small Bar  | 103 Francis Street, Northbridge WA, 6003   http://www.frisksmallbar.com.au/ | ? | Bar specialising in cocktails and gin         |
+| Bar | Frisk Small Bar  | 103 Francis Street, Northbridge WA, 6003   http://www.frisksmallbar.com.au/ | ? | Bar specialising in cocktails and gin  |
 | Accomodation, Bar, Restaurant | Norfolk Hotel | 47 South Terrace, Fremantle WA, 6160   https://norfolkhotel.com.au/ | No | Hotel accomodation, bar, and restaurant |
-| Baseball Team | Perth Heat | https://bitcoinperthheat.com/ | ? | Baseball team on a bitcoin standard. Selling merchandise, memberships, and game tickets.      |
+| Baseball Team | Perth Heat | https://bitcoinperthheat.com/ | ? | Baseball team on a bitcoin standard. Selling merchandise, memberships, and game tickets  |
 
 
 
 ### Northern Territory
+
 | **Type** | **Name**            | **Location**                            | **Lightning** | **Comments**                                                     |
 |----------|---------------------|-----------------------------------------|---------------|------------------------------------------------------------------|
-| Cafe     | Just Coffee Beans   | Parap and Nightcliff Markets, Darwin NT   https://justcoffee.com.au/ | ? | Coffee shop                                     |
+| Cafe     | Just Coffee Beans   | Parap and Nightcliff Markets, Darwin NT   https://justcoffee.com.au/ | ? | Coffee shop                            |
 
 
 
@@ -83,32 +88,32 @@ This project can only work with community involvement. Please PM maintainers or 
 
 | **Type**   | **Name**            | **Website**                        | **Lightning**  | **Comments**                                                        |
 |------------|---------------------|------------------------------------|----------------|---------------------------------------------------------------------|
-| Online Training | Adrian Cantrill | https://learn.cantrill.io/        | Yes            | Online training courses covering Amazon Web Services      |
-| Computers  | Another World Computer Centre | https://anotherworld.com.au/ | Yes        | Computers, parts, and repairs                                       |
-| Bicycles   | Bike Factory Outlet | https://www.bikefo.com.au/         |  ?             | Bicycles, parts, tools, and accessories                             |
+| Online Training | Adrian Cantrill | https://learn.cantrill.io/        | Yes            | Online training courses covering Amazon Web Services     |
+| Computers  | Another World Computer Centre | https://anotherworld.com.au/ | Yes        | Computers, parts, and repairs                            |
+| Bicycles   | Bike Factory Outlet | https://bikefo.com.au/         |  ?             | Bicycles, parts, tools, and accessories                      |
 | Gift Cards | Bitcoin Gift Cards  | https://bitcoingiftcards.com.au/   |  ?             | Buy gift cards with Bitcoin  |
 | Gift Cards | Bitswap             | https://bitswap.com.au/            | Yes            | Buy gift cards with Bitcoin  |
-| Bitcoin Support | Bitcoin Shepherd | https://thebitcoinshepherd.com/  |  ?             | Consulting and support to understand, buy, and self-custody bitcoin |
-| Misc Retail | BitShopping        | https://bitshopping.com.au/        |  ?             | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
-| Snowboards & Skateboards | Boardworld | https://boardworld.com.au/    |  No            | Snowboards, skateboards, and accessories                            |
-| Clothing   | CultureKings        | https://culturekings.com.au/       |  No            | Clothing (music-, sport-, and stree-twear)                          |
-| Computers  | Dream PC            | https://dreampc.com.au/            |  No            | Custom computer builds and repairs                                  |
-| Games      | Gumnut              | https://gumnut.com.au/             |  No            | Board games, card games, tabletop games, miniatures, puzzles        |
-| Bitcoin Clothing & Accessories | Koined.Store | https://koined.store/ |  Yes           | Bitcoin clothing and accessories                                    |
-| Accountant | Kova Tax            | https://kovatax.com.au/            |  ?             | Accounting and tax services (including cryptocurrencies)            |
-| ISP        | Launtel             | https://launtel.net.au/            |  No            | Australia-wide Internet Service Provider                            |
+| Bitcoin Support | Bitcoin Shepherd | https://thebitcoinshepherd.com/  |  ?  | Consulting and support to understand, buy, and self-custody bitcoin |
+| Misc Retail | BitShopping        | https://bitshopping.com.au/        |  ?  | Home, garden, furniture, clothing, appliances, pet care, tools, etc | 
+| Snowboards & Skateboards | Boardworld | https://boardworld.com.au/    |  No            | Snowboards, skateboards, and accessories                 |
+| Clothing   | CultureKings        | https://culturekings.com.au/       |  No            | Clothing (music-, sport-, and stree-twear)               |
+| Computers  | Dream PC            | https://dreampc.com.au/            |  No            | Custom computer builds and repairs                       |
+| Games      | Gumnut              | https://gumnut.com.au/             |  No            | Board games, card games, tabletop games, miniatures, puzzles |
+| Bitcoin Clothing / Merchandise | Koined.Store | https://koined.store/ |  Yes           | Bitcoin clothing and other merchandise                   |
+| Accountant | Kova Tax            | https://kovatax.com.au/            |  ?             | Accounting and tax services (including cryptocurrencies) |
+| ISP        | Launtel             | https://launtel.net.au/            |  No            | Australia-wide Internet Service Provider                 |
 | Market     | Lightning Bazaar    | https://lightningbazaar.com/       |  Yes           | A marketplace with various goods and services for sale (eg, digital art, children's books, fruit, pure honey, etc) |
-| Florist    | Luxe Bouquet        | https://luxebouquet.com.au/        |  No            | Florist                                                             |
+| Florist    | Luxe Bouquet        | https://luxebouquet.com.au/        |  No            | Florist                                                  |
 | Bitcoin Support | Ministry of Nodes | https://ministryofnodes.com.au/consulting | Yes | Consulting and support with bitcoin self custody, nodes, privacy, etc |
-| Pet Supplies | Pet Parlour       | https://petparlour.com.au/         |  No            | Luxury pet products (eg, orthopedic dog beds)                       |
-| Clothing     | Poison Arrow      | https://poisonarrow.com.au/        |  No            | Retro and rockabilly clothing and homewares                         |
-| Accountant | Red Jay Advisory    | https://redjay.com.au/             |  ?             | Accounting and tax services (including cryptocurrencies)            |
+| Pet Supplies | Pet Parlour       | https://petparlour.com.au/         |  No            | Luxury pet products (eg, orthopedic dog beds)            |
+| Clothing     | Poison Arrow      | https://poisonarrow.com.au/        |  No            | Retro and rockabilly clothing and homewares              |
+| Accountant | Red Jay Advisory    | https://redjay.com.au/             |  ?             | Accounting and tax services (including cryptocurrencies) |
 | Collectibles | Retro Girl        | https://retrogirl.co/              |  No            | Rare and collectible vintage items (eg, jewellery and accessories)  |
-| Groceries    | USA Foods         | https://usafoods.com.au/           |  ?             | All-American grocery store (in Australia!)                          |
-| Electronics  | Zumi              | https://zumi.com.au/               |  No            | Personal electronics (eg, audio, laptops, wearables)                |
-| Energy       | 1st Energy        | https://1stenergy.com.au/          |  No            | Residential and business energy retailer                            |
-| Coffee Beans | 108 Specialty Coffee | https://108specialtycoffee.com/ |  ?             | Coffee beans and related products                                   |
-
+| Groceries    | USA Foods         | https://usafoods.com.au/           |  ?             | All-American grocery store (in Australia!)               |
+| Graphic Design & Bitcoin Clothing / Merchandise | World of Rusty | https://worldofrusty.com/ | ? | Graphic design, and bitcoin clothing and other merchandise |
+| Electronics  | Zumi              | https://zumi.com.au/               |  No            | Personal electronics (eg, audio, laptops, wearables)     |
+| Energy       | 1st Energy        | https://1stenergy.com.au/          |  No            | Residential and business energy retailer                 |
+| Coffee Beans | 108 Specialty Coffee | https://108specialtycoffee.com/ |  ?             | Coffee beans and related products                        |
 
 
 &nbsp;&nbsp;
@@ -140,4 +145,3 @@ For more comprehensive information on the ATO's tax treatment of spending (i.e.,
 <a href="https://bluewallet.io/">**Blue Wallet**</a> - iPhone and Android: Bitcoin mainnet/on-chain and Lightning wallet. Free and open source, single- and multi-signature, coin control features, batch spending, Tor connectivity, able to connect to own/chosen node (for both on-chain and Lightning).
 
 <a href="https://samouraiwallet.com/">**Samourai Wallet**</a> - Android only: Bitcoin mainnet/on-chain privacy-focused wallet. Free and open source, single-signature with passphrase, coinjoin and payjoin transactions, PayNym (BIP47) static stealth addresses, coin control features, batch spending, Tor connectivity. Recommended to use with full node. 
-
